@@ -4,7 +4,7 @@ import { io } from "socket.io-client";
 import Menu from "./Menu";
 import { Copy } from "lucide-react";
 
-const socket = io("http://localhost:5000");
+const socket = io("https://tic-tac-toe-85w4.onrender.com/");
 const initialBoard = Array(9).fill(null);
 const Board = () => {
   const [board, setBoard] = useState(initialBoard);
