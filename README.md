@@ -1,49 +1,43 @@
 🕹️ Tic Tac Toe (Realtime Multiplayer)
 
+A realtime multiplayer Tic Tac Toe game built with React, Node.js, Express, and Socket.io.
+Play and challenge your friends instantly online!
 
-
-
-
-
-
-
-
-
-A Realtime Multiplayer Tic Tac Toe Game built with React, Node.js, Express & Socket.io.
-Challenge your friends and play instantly online ⚡
-
-🌐 Live Demo → Tic Tac Toe Game
+🌐 Live Demo → Tic Tac Toe Game https://gautam-tic-tac-toe.netlify.app/
 
 ✨ Features
 
-🎮 Play Tic Tac Toe with friends in realtime
+🎮 Play Tic Tac Toe with your friends in realtime
 
-⚡ Instant updates powered by Socket.io
+⚡ Powered by WebSockets (Socket.io) for instant moves
 
-📱 Responsive design (desktop + mobile)
+🖥️ Clean and responsive UI (works on desktop & mobile)
 
-🔥 Deployed with Netlify (Frontend) & Render (Backend)
+🔥 Deployed with Netlify (Frontend) + Render (Backend)
 
-🏆 Win, Draw, and Game Reset detection
+🏆 Win / Draw detection
 
 🛠️ Tech Stack
 
-Frontend:
+Frontend
 
+React
 
+CSS
 
+Backend
 
-Backend:
+Node.js
 
+Express.js
 
+Socket.io
 
+Deployment
 
+Netlify (client)
 
-
-Deployment:
-
-
-
+Render (server)
 
 🚀 Getting Started (Local Setup)
 Clone the repo
@@ -73,20 +67,20 @@ Backend → http://localhost:5000
 
 📸 Screenshots
 
-(Add your screenshots in screenshots/ folder and update paths below)
+(Add your screenshots here)
 
 Example:
 
 📡 Deployment Links
 
-🎨 Frontend (Netlify): https://gautam-tic-tac-toe.netlify.app
+🎨 Frontend: Netlify
 
-⚙️ Backend (Render): https://tic-tac-toe-85w4.onrender.com
+⚙️ Backend: Render
 
 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-Feel free to fork this repo and submit a PR.
+Feel free to fork the repo and submit a PR.
 
 📄 License
 
